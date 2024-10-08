@@ -1,14 +1,4 @@
-public class Adder {
-    public int add (int a, int b){
-        return a+ b;
-    }
-}
-
-public class Substructor {
-    publiv int substract (int a, int b){
-        retutn a-b;
-    }
-}
+// TODO: we need to add the missing classes!
 
 public class Main {
     public static void main(String[] args) {
